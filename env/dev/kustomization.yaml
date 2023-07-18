@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/talitz/demo-app
-  newTag: latest
+  newTag: 6eccdcd6b98ff171ea3d0174f86a51713fc7eb34
